@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Gowtham",
+	"email": "gowtham@test.com",
+	"phone": "123456789",
+	"city": "Coimbature",
+	"state": "Tamil Nadu",
+	"country": "India",
+	"organization": "Company 1",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+}
